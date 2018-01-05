@@ -1,0 +1,8 @@
+C:\PROJECTS\BMC\Replacer\replacer\replacer\bin\Release\replacer.exe.config
+C:\PROJECTS\BMC\Replacer\replacer\replacer\bin\Release\replacer.exe
+C:\PROJECTS\BMC\Replacer\replacer\replacer\bin\Release\replacer.pdb
+C:\PROJECTS\BMC\Replacer\replacer\replacer\obj\Release\replacer.FormMain.resources
+C:\PROJECTS\BMC\Replacer\replacer\replacer\obj\Release\replacer.Properties.Resources.resources
+C:\PROJECTS\BMC\Replacer\replacer\replacer\obj\Release\replacer.csproj.GenerateResource.Cache
+C:\PROJECTS\BMC\Replacer\replacer\replacer\obj\Release\replacer.exe
+C:\PROJECTS\BMC\Replacer\replacer\replacer\obj\Release\replacer.pdb
